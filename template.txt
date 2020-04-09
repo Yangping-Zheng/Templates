@@ -1,5 +1,5 @@
 Chromosome(from chr1-chr22 plus chrX)  SNP Start Position (e.g."16608748")      
 chr1                                   16608748
 chr2                                   16608748
-chr3                                   16608748 
+chr3                                   16608
 ...                                    ...
